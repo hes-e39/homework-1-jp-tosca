@@ -43,6 +43,7 @@ const fetchColors = ({ name, hex, compName, compHex }) => {
   return filter;
 };
 
+
 // Leave this here
 export default fetchColors;
  
